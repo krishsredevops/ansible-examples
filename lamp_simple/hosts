@@ -1,7 +1,7 @@
 [webservers]
-34.67.39.180
+34.67.39.180 ansible_user=krish
 
 [dbservers]
-34.136.178.173
+34.136.178.173 ansible_user=krish
 
 
